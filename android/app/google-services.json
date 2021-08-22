@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661534221104",
+    "project_id": "trial-a7609",
+    "storage_bucket": "trial-a7609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661534221104:android:c017ff2bef05bd5e2c5ef5",
+        "android_client_info": {
+          "package_name": "com.trial_reactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661534221104-69suib32hghoh1kc1pnoe96uri5inoag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxiB6hlswzEDqE2n3TI2BGxcH9XrJMlwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661534221104-69suib32hghoh1kc1pnoe96uri5inoag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
